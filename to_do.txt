@@ -1,0 +1,18 @@
+TO DO-LIST, SLAB_MIXED_LAYER
+############################
+
+(Updated 26.06 2020)
+
+SHORT TERM
+
+- Test and validate.
+- Replace numerical integration with something more optimized 
+  (scipy.integrate.solve_ivp?)
+
+
+LONG TERM / OPTIONAL
+
+- Improve documentation (commenting and readme files).
+- Document in Sphinx.
+- Apply dynamic mixed layer deepening (Plueddemann et al 2016).
+- Spatial functionality (calculating convergence, etc)?
